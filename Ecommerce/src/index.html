@@ -1,0 +1,350 @@
+<!DOCTYPE html>
+<html lang="es">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, user-scalable=no, 
+    initial-scale=1.0, maximum-scale=1.0, minimum-scale=1.0">
+    <link rel="preconnect" href="https://fonts.googleapis.com">
+    <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
+    <link href="https://fonts.googleapis.com/css2?family=Open+Sans:ital,wght@0,300;0,400;0,600;0,700;1,300&display=swap" rel="stylesheet">
+    <link rel="stylesheet" href="./css/styles.css">
+    <link rel="shorcut icon" href='./assets/logo/logo.ico'>
+    <link href='https://unpkg.com/boxicons@2.1.4/css/boxicons.min.css' rel='stylesheet'>
+    <link href="https://cdn.jsdelivr.net/npm/bootstrap@5.3.2/dist/css/bootstrap.min.css" rel="stylesheet" integrity="sha384-T3c6CoIi6uLrA9TneNEoa7RxnatzjcDSCmG1MXxSR1GAsXEV/Dwwykc2MPK8M2HN" crossorigin="anonymous">
+    <script src="./js/products.js" ></script>
+    <script src="./js/main.js" defer type="module"></script>
+    <script src="./js/carrito.js" defer></script>
+    <script src="https://kit.fontawesome.com/41bcea2ae3.js" crossorigin="anonymous"></script>
+    <title>Terra Dietética</title>
+    <link href="https://fonts.googleapis.com/css2?family=Montserrat:wght@400;700&display=swap" rel="stylesheet">
+    <style>
+        body {
+            background-color: #FFF5E1; 
+        }
+    </style>
+</head>
+<body>
+    <header class="header" id="inicio">
+        <div class="contenedor">
+            <div class="logo">
+                <img width="300" height="300" src="./assets/logo/logo-wo-bg.png" alt="Tienda Saludable">
+            </div>
+        </div>
+        <nav>
+            <ul class="cont-ul">
+                <li><a href="#" id="btn-inicio">Inicio</a></li>
+                <li class="btn-section"><a href="#">Productos</a>
+                    <ul class="dropdown-menu">
+                        <li class="btn-tacc"><a href="##">Sin TACC</a></li>
+                        <li class="btn-veggie"><a href="##">Vegano</a></li>
+                        <li class="btn-Natural"><a href="##">Producto Natural</a></li>
+                        <li class="btn-cosmetica"><a href="##">Cosmetica</a></li>
+                        <li class="btn-keto"><a href="##">Keto</a></li>
+                    </ul>
+                </li>
+                <li><a href="#contacto">Contacto</a></li>
+                <li><a href="cart.html"><img src="./assets/img/carrito.png" alt="Carrito de compras"><span id="cuenta-carrito">0</span></a></li>
+                <div class="center">
+                <li><a href="inicio_sesion.html">Iniciar Sesión</a></li>    
+        </nav>
+    </header>
+
+
+     <!-- CARROUSEL -->
+
+     <div id="carouselExampleIndicators" class="carousel slide">
+        <div class="carousel-indicators">
+          <button type="button" data-bs-target="#carouselExampleIndicators" data-bs-slide-to="0" class="active" aria-current="true" aria-label="Slide 1"></button>
+          <button type="button" data-bs-target="#carouselExampleIndicators" data-bs-slide-to="1" aria-label="Slide 2"></button>
+          <button type="button" data-bs-target="#carouselExampleIndicators" data-bs-slide-to="2" aria-label="Slide 3"></button>
+        </div>
+        <div class="carousel-inner">
+          <div class="carousel-item active d-item">
+            <img src="./assets/img/9.png" class="d-block w-100 d-img" alt="...">
+          </div>
+          <div class="carousel-item  d-item">
+            <img src="./assets/img/10.png" class="d-block w-100 d-img" alt="...">
+          </div>
+          <div class="carousel-item  d-item">
+            <img src="./assets/img/11.jpg" class="d-block w-100 d-img" alt="...">
+          </div>
+
+        </div>
+        <button class="carousel-control-prev" type="button" data-bs-target="#carouselExampleIndicators" data-bs-slide="prev">
+          <span class="carousel-control-prev-icon" aria-hidden="true"></span>
+          <span class="visually-hidden">Previous</span>
+        </button>
+        <button class="carousel-control-next" type="button" data-bs-target="#carouselExampleIndicators" data-bs-slide="next">
+          <span class="carousel-control-next-icon" aria-hidden="true"></span>
+          <span class="visually-hidden">Next</span>
+        </button>
+      </div>
+
+        <!-- seccion galeria -->
+        <section class="galeria" id="galeria">
+            <div class="foto">
+                <img src="./assets/img/1.png" alt="">
+            </div>
+
+            <div class="foto">
+                <img src="./assets/img/2.png" alt="">
+            </div>
+
+            <div class="foto">
+                <img src="./assets/img/3.png" alt="">
+            </div>
+
+            <div class="foto">
+                <img src="./assets/img/4.png" alt="">
+            </div>
+
+            <div class="foto">
+                <img src="./assets/img/5.png" alt="">
+            </div>
+
+            <div class="foto">
+                <img src="./assets/img/6.png" alt="">
+            </div>
+
+            <div class="foto">
+                <img src="./assets/img/7.png" alt="">
+            </div>
+
+            <div class="foto">
+                <img src="./assets/img/8.png" alt="">
+            </div>
+        </section>
+
+        <!-- Seccion categorias -->
+     <section class="container top-categories">
+        <h1 class="heading-1">Categorías destacadas</h1>
+        <div class="container-products">
+            <div class="card-category category-Vegano">
+                 <button class="btn-vegano-destacado">Vegano</button>
+            </div>
+            <div class="card-category category-Keto">
+               <button class="btn-keto-destacado">Keto</button>
+            </div>
+            <div class="card-category category-Natural">
+               <button class="btn-natural-destacado">Natural</button>
+            </div>
+        </div>
+    </section>        
+
+        <div class="fila-productos">
+        </div>
+     <!-- seccion productos destacados -->
+     <main class="main-content">
+        <!--<p> Up no productos en carrito!!</p>
+        <section class="container top-products"></section>
+        <section id="totales">
+           <p>Total unidades: <span id|="unidades">0</span></p>
+            <p>Total precio: <span id="precio">0</span></p>  
+            <button disabled>Comprar</button>
+            <button>Reinicito<ar carri/button>
+        </section>
+     </main>-->
+
+
+         <section class="container top-products">
+             <h1 class="heading-1">Ofertas Imperdibles</h1>
+             <div class="container-products">
+                 <!-- Producto 1 -->
+                 <div class="card-product">
+                     <div class="container-img">
+                         <img src="./assets/img/CafeKeto.jpeg" alt="CafeKeto" />
+                         <span class="discount">-13%</span>
+                         <div class="button-group"></div>
+                     </div>
+                     <div class="content-card-product">
+                         <div class="stars">
+                             <i class="fa-solid fa-star"></i>
+                             <i class="fa-solid fa-star"></i>
+                             <i class="fa-solid fa-star"></i>
+                             <i class="fa-solid fa-star"></i>
+                             <i class="fa-regular fa-star"></i>
+                         </div>
+                         <h3>Cafe Keto</h3>
+                         <p class="price">$1450 <span>$1638</span></p>
+                     </div>
+                 </div>
+                 <!-- Producto 2 -->
+                 <div class="card-product">
+                     <div class="container-img">
+                         <img src="./assets/img/granola.jpg" alt="granola"/>
+                         <span class="discount">-22%</span>
+                         <div class="button-group"></div>
+                     </div>
+                     <div class="content-card-product">
+                         <div class="stars">
+                             <i class="fa-solid fa-star"></i>
+                             <i class="fa-solid fa-star"></i>
+                             <i class="fa-solid fa-star"></i>
+                             <i class="fa-regular fa-star"></i>
+                             <i class="fa-regular fa-star"></i>
+                         </div>
+                         <h3>Granola</h3>
+                         <p class="price">$2910 <span>$3550</span></p>
+                     </div>
+                 </div>
+                 <!-- Producto 3  -->
+                 <div class="card-product">
+                     <div class="container-img">
+                         <img src="./assets/img/KiwiDeshidratado.jpg" alt="KiwiDeshidratado"/>
+                         <span class="discount">-14%</span>
+                         <div class="button-group"></div>
+                     </div>
+                     <div class="content-card-product">
+                         <div class="stars">
+                             <i class="fa-solid fa-star"></i>
+                             <i class="fa-solid fa-star"></i>
+                             <i class="fa-solid fa-star"></i>
+                             <i class="fa-solid fa-star"></i>
+                             <i class="fa-solid fa-star"></i>
+                         </div>
+                         <h3>Kiwi Deshidratado</h3>
+                         <p class="price">$2750<span>$3135</span></p>
+                     </div>
+                 </div>
+                 <!-- Producto 4  -->
+                 <div class="card-product">
+                     <div class="container-img">
+                         <img src="./assets/img/BudinKeto.jpeg" alt="BudinKeto" />
+                         <span class="discount">-%21</span></div>
+                         <div class="button-group"> </div>
+                     <div class="content-card-product">
+                         <div class="stars">
+                             <i class="fa-solid fa-star"></i>
+                             <i class="fa-solid fa-star"></i>
+                             <i class="fa-solid fa-star"></i>
+                             <i class="fa-solid fa-star"></i>
+                             <i class="fa-regular fa-star"></i>
+                         </div>
+                         <h3>Budin Keto</h3>
+                         </span>
+                         <p class="price">$750<span>$3135</span></p>
+                     </div>
+                 </div>
+                 <!-- Producto 5 -->
+                 <div class="card-product">
+                    <div class="container-img">
+                        <img src="./assets/img/VeganoSmoothie.jpg" alt="VeganoSmoothie"/>
+                        <span class="discount">-27%</span>
+                        <div class="button-group"></div>
+                    </div>
+                    <div class="content-card-product">
+                        <div class="stars">
+                            <i class="fa-solid fa-star"></i>
+                            <i class="fa-solid fa-star"></i>
+                            <i class="fa-solid fa-star"></i>
+                            <i class="fa-regular fa-star"></i>
+                            <i class="fa-regular fa-star"></i>
+                        </div>
+                        <h3>Vegano Smoothie</h3>
+                        <p class="price">$950 <span>$1206</span></p>
+                    </div>
+                </div>
+                <!-- Producto 6 -->
+                <div class="card-product">
+                    <div class="container-img">
+                        <img src="./assets/img/TaccCookiesLimon.jpeg" alt="TaccCookiesLimon"/>
+                        <span class="discount">-18%</span>
+                        <div class="button-group"></div>
+                    </div>
+                    <div class="content-card-product">
+                        <div class="stars">
+                            <i class="fa-solid fa-star"></i>
+                            <i class="fa-solid fa-star"></i>
+                            <i class="fa-solid fa-star"></i>
+                            <i class="fa-regular fa-star"></i>
+                            <i class="fa-regular fa-star"></i>
+                        </div>
+                        <h3>Sin Tacc Cookies Limon</h3>
+                        <p class="price">$750 <span>$826</span></p>
+                    </div>
+                </div>
+             </div>
+         </section>
+     </main>
+     
+
+        <!-- seccion ubicacion -->
+       
+        </section>
+        <section class="mapa">
+            <iframe
+                src="https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d3283.5832914020516!2d-68.33144052400267!3d-34.61469735807847!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x967907fc68fbeafb%3A0xb53a71691fefd043!2sAv.%20Gral.%20Jos%C3%A9%20de%20San%20Mart%C3%ADn%20150%2C%20M5602BOJ%20San%20Rafael%2C%20Mendoza!5e0!3m2!1ses!2sar!4v1696502596176!5m2!1ses!2sar"
+                width="1600" height="550" style="border:0;" allowfullscreen="" loading="lazy"
+                referrerpolicy="no-referrer-when-downgrade"></iframe>
+        </section>
+
+        <footer>
+            <footer id="contacto">
+            <div class="container__footer">
+                <div class="box__footer">
+                    <div class="logo">
+                        <img src="assets/logo/Captura-PhotoRoom.png-PhotoRoom.png" alt="">
+                    </div>
+                    <div class="terms">
+                        <p>Somos una tienda comprometida en proporcionar productos de alta calidad para mejorar tu estilo de vida y promover la salud y el bienesta.</p>
+                    </div>
+                </div>
+                <div class="box__footer">
+                    <h2>Ubicacion</h2>
+                    <div class="direccion-ubicacion">
+                        <p class="calle"> San Martin 150 Argentina</p>
+                        <p class="telefono">(54) 2614365206</p>
+                        <p class="correo">teamFortran@gmail.com</p>
+                    </div>
+    
+                    <div class="horarios">
+                        <h3>Horarios</h3> 
+                        <p class="entre-semana">Lunes a Viernes <br> 8:00 am - 8:00pm</p>
+                        
+                       
+                        </div>
+            
+                </div>
+    
+                <div class="box__footer">
+                    <h2>Compañia</h2>
+                    <a href="preguntas-frecuentes-/preguntas frecuentes.html">Preguntas frecuentes</a>
+                    <a href="#">Cambios y devoluciones</a>
+                    <div class="medio de pago">
+                        <br>
+                        <h3>Medios de pago</h3>
+                        <a href="#"> <i class="fa-brands fa-cc-visa"></i> Visa</a>
+                        <a href="#"> <i class="fa-brands fa-cc-mastercard"></i>  Mastercard</a>
+                    </div>   
+                    <div class="envio">
+                        <br>
+                        <h3>Medios de envio</h3>
+                        <a href="#"> <i class="fa-solid fa-truck-fast"></i> </a>
+                        <a href="#"> <i class="fa-solid fa-shop"></i></a>
+                    </div>            
+                </div>
+    
+                <div class="box__footer">
+                    <h2>Redes Sociales</h2>
+                    <a href="https://www.facebook.com"> <i class="fab fa-facebook-square"></i> Facebook</a>
+                    <a href="https://twitter.com/"><i class="fab fa-twitter-square"></i> Twitter</a>
+                    <a href="https://www.instagram.com/"><i class="fab fa-instagram-square"></i> Instagram</a>
+                </div>
+    
+            </div>
+    
+            <div class="box__copyright">
+                <hr>
+                <p>Todos los derechos reservados © 2023 <b> TeamFortran </b></p>
+            </div>
+        </footer>
+
+    <script src="https://cdn.jsdelivr.net/npm/bootstrap@5.3.2/dist/js/bootstrap.bundle.min.js" integrity="sha384-C6RzsynM9kWDrMNeT87bh95OGNyZPhcTNXj1NW7RuBCsyN/o0jlpcV8Qyq46cDfL" crossorigin="anonymous"></script>
+
+    <div class="btn-wsp">
+            
+        <a href="https://wa.link/o29l41"> <i class="fa-brands fa-whatsapp"></i> 
+        </a>
+    </div>
+</body>
+</html>
