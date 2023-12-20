@@ -312,7 +312,7 @@ footer{
 
 .box__footer h2{
     margin-bottom: 30px;
-    color: tan;
+    color:  #4682B4;
     font-weight: 700;
 }
 
@@ -350,8 +350,8 @@ footer{
 
 /* Header */
 header {
-  background-color: #fff;
-  color: #fff;
+  background-color: #001f3f;
+  color: white;
   text-align: center;
   position: relative;
 }
@@ -360,6 +360,7 @@ header {
   margin: 0 auto;
   max-width: 100%;
   display: block;
+  background-color: white;
 }
 
 #cuenta-carrito{
@@ -426,7 +427,7 @@ margin: 20px 0;
 
 /* footer */
 footer {
-  background-color: tan;
+  background-color: #001f3f;
   color: #000;
   text-align: center;
   padding: 10px;
@@ -537,7 +538,7 @@ nav {
   display: flex;
   justify-content: center;
   align-items: center;
-  background-color: #d17b4dc1;
+  background-color: #4682B4;
   padding-left: 2vw;
 }
 
@@ -561,7 +562,7 @@ li>a {
 }
 
 li:hover {
-  background-color:  #b46138;
+  background-color:   #001f3f;;
 }
 
 .btn-section {
@@ -578,15 +579,15 @@ li:hover {
 .dropdown-menu>li {
   width: 100%;
   transform: translateX(-25px);
-  border-bottom: solid 1px rgb(227, 97, 16);
+  border-bottom: solid 1px rgb(44, 112, 202);
   display: flex;
   justify-content: center;
-  background-color:  #b46138fe;
+  background-color:  #4682B4;
   height: 100%;
 }
 
 .dropdown-menu>li:hover {
-  background-color:  #e45b17fe;
+  background-color:  #001f3f;
 }
 
 .btn-section:hover>.dropdown-menu {
@@ -710,7 +711,7 @@ li:hover {
 	}
 
 	.tarjeta-producto button:hover {
-		background-color: #ee6130;
+		background-color: #3073ee;
 		transition: all .3s ease;
 	}
 
