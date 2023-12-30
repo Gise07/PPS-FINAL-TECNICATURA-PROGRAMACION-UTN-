@@ -7,7 +7,7 @@ export const products = [
         price: 20520,
         image: `${direccion}chameleonazul.jpg`,
         description: "--------------------",
-        category : 'Keto',
+        category : 'Remerahombre',
         stock : 10
     },
     {
@@ -16,7 +16,7 @@ export const products = [
         price: 20520,
         image: `${direccion}chameleonblanco.jpg`,
         description: "--------------------",
-        category : 'Keto',
+        category : 'Remerahombre',
         stock : 10
     },  
     {
@@ -25,7 +25,7 @@ export const products = [
         price: 20520,
         image: `${direccion}chameleonfluor.jpg`,
         description: "--------------------",
-        category : 'Keto',
+        category : 'Remerahombre',
         stock : 10
     },
     {
@@ -34,7 +34,7 @@ export const products = [
         price: 20520,
         image: `${direccion}chameleonrojo.jpg`,
         description: "--------------------",
-        category : 'Keto',
+        category : 'Remerahombre',
         stock : 10
     },
     {
@@ -43,7 +43,7 @@ export const products = [
         price: 16457,
         image: `${direccion}filaazuloscuro.jpg`,
         description: "--------------------",
-        category : 'Keto',
+        category : 'Remerahombre',
         stock : 10
     },
     {
@@ -52,7 +52,7 @@ export const products = [
         price: 16457,
         image: `${direccion}filaroja.jpg`,
         description: "--------------------",
-        category : 'Keto',
+        category : 'Remerahombre',
         stock : 10
     },
     {
@@ -61,7 +61,7 @@ export const products = [
         price: 54985,
         image: `${direccion}montagneblanca.jpg`,
         description: "--------------------",
-        category : 'Keto',
+        category : 'Remerahombre',
         stock : 10
     },
     {
@@ -70,7 +70,7 @@ export const products = [
         price: 54985,
         image: `${direccion}montagneroja.jpg`,
         description: "--------------------",
-        category : 'Keto',
+        category : 'Remerahombre',
         stock : 10
     },
     {
@@ -79,7 +79,7 @@ export const products = [
         price: 48200,
         image: `${direccion}nikeacademy.jpg`,
         description: "--------------------",
-        category : 'Keto',
+        category : 'Remerahombre',
         stock : 10
     },
     {
@@ -88,7 +88,7 @@ export const products = [
         price: 48200,
         image: `${direccion}nikeblanca.jpg`,
         description: "--------------------",
-        category : 'Keto',
+        category : 'Remerahombre',
         stock : 10
     },
     {
@@ -97,7 +97,7 @@ export const products = [
         price: 55000,
         image: `${direccion}nikemangalarga.jpg`,
         description: "--------------------",
-        category : 'Keto',
+        category : 'Remerahombre',
         stock : 10
     },
     {
@@ -106,7 +106,7 @@ export const products = [
         price: 48200,
         image: `${direccion}nikenegra.jpg`,
         description: "--------------------",
-        category : 'Keto',
+        category : 'Remerahombre',
         stock : 10
     },
     {
@@ -115,7 +115,7 @@ export const products = [
         price: 48200,
         image: `${direccion}nikeverde.jpg`,
         description: "--------------------",
-        category : 'Keto',
+        category : 'Remerahombre',
         stock : 10
     },
     {
@@ -124,7 +124,7 @@ export const products = [
         price: 26369,
         image: `${direccion}pumablanco.jpg`,
         description: "--------------------",
-        category : 'Keto',
+        category : 'Remerahombre',
         stock : 10
     },
     {
@@ -133,7 +133,7 @@ export const products = [
         price: 26369,
         image: `${direccion}pumanegro.jpg`,
         description: "--------------------",
-        category : 'Keto',
+        category : 'Remerahombre',
         stock : 10
     },
     {
@@ -142,7 +142,7 @@ export const products = [
         price: 34999,
         image: `${direccion}reebokazul.jpg`,
         description: "--------------------",
-        category : 'Keto',
+        category : 'Remerahombre',
         stock : 10
     },
     {
@@ -151,7 +151,7 @@ export const products = [
         price: 34999,
         image: `${direccion}reeboknegra.jpg`,
         description: "--------------------",
-        category : 'Keto',
+        category : 'Remerahombre',
         stock : 10
     },
     {
@@ -160,7 +160,7 @@ export const products = [
         price: 20000,
         image: `${direccion}toppernegra.jpg`,
         description: "--------------------",
-        category : 'Keto',
+        category : 'Remerahombre',
         stock : 10
     },
     {
@@ -169,7 +169,7 @@ export const products = [
         price: 33000,
         image: `${direccion}wilsonazul.jpg`,
         description: "--------------------",
-        category : 'Keto',
+        category : 'Remerahombre',
         stock : 10
     },
     {
@@ -178,7 +178,7 @@ export const products = [
         price: 33000,
         image: `${direccion}wilsonnegra.jpg`,
         description: "--------------------",
-        category : 'Keto',
+        category : 'Remerahombre',
         stock : 10
     },
     {
@@ -187,7 +187,7 @@ export const products = [
         price: 31566,
         image: `${direccion}remeraadidarunit.jpg`,
         description: "--------------------",
-        category : 'Natural',
+        category : 'Remeramujer',
         stock : 10
     },
     {
@@ -196,7 +196,7 @@ export const products = [
         price: 17000,
         image:`${direccion}remerafilaaime.jpg`,
         description: "--------------------",
-        category : 'Natural',
+        category : 'Remeramujer',
         stock : 8
     },
     {
@@ -205,7 +205,7 @@ export const products = [
         price: 16500,
         image: `${direccion}remerafilabasicsport.jpg`,
         description: "--------------------",
-        category : 'Natural',
+        category : 'Remeramujer',
         stock : 5
     },
     {
@@ -214,7 +214,7 @@ export const products = [
         price: 17200,
         image: `${direccion}remerafilarunning.jpg`,
         description: "--------------------",
-        category : 'Natural',
+        category : 'Remeramujer',
         stock : 6.2
     },
     {
@@ -223,7 +223,7 @@ export const products = [
         price: 16300,
         image: `${direccion}remeramontagneadana.jpg`,
         description: "--------------------",
-        category : 'Natural',
+        category : 'Remeramujer',
         stock : 15.4
     },
     {
@@ -232,7 +232,7 @@ export const products = [
         price: 16300,
         image: `${direccion}remeramontagnebrenna.jpg`,
         description: "--------------------",
-        category : 'Natural',
+        category : 'Remeramujer',
         stock : 2.3
     },
     {
@@ -241,7 +241,7 @@ export const products = [
         price: 25000,
         image: `${direccion}remeranewbalanceathletic.jpg`,
         description: "--------------------",
-        category : 'Natural',
+        category : 'Remeramujer',
         stock : 24
     },
     {
@@ -250,7 +250,7 @@ export const products = [
         price: 25000,
         image: `${direccion}remeranewbalancespeedjaq.jpg`,
         description: "--------------------",
-        category : 'Natural',
+        category : 'Remeramujer',
         stock : 7.6
     },
     {
@@ -259,7 +259,7 @@ export const products = [
         price: 14889,
         image: `${direccion}remeranutilitypuma.jpg`,
         description: "--------------------",
-        category : 'Natural',
+        category : 'Remeramujer',
         stock : 12.6
     },
     {   
@@ -268,7 +268,7 @@ export const products = [
         price: 15400,
         image: `${direccion}remerapuma.jpg`,
         description: "--------------------",
-        category : 'Natural',
+        category : 'Remeramujer',
         stock : 9.7
     },
     {
@@ -277,7 +277,7 @@ export const products = [
         price: 32475,
         image: `${direccion}remerawilsontenis.jpg`,
         description: "--------------------",
-        category : 'Natural',
+        category : 'Remeramujer',
         stock : 4.7
     },
     {
@@ -286,7 +286,7 @@ export const products = [
         price: 18999,
         image: `${direccion}remerapumaactive.jpg`,
         description: "--------------------",
-        category : 'Natural',
+        category : 'Remeramujer',
         stock : 3.1
     },
     {
@@ -295,7 +295,7 @@ export const products = [
         price: 19999,
         image: `${direccion}remerapumablanca.jpg`,
         description: "--------------------",
-        category : 'Natural',
+        category : 'Remeramujer',
         stock : 1.5
     },
     {
@@ -304,7 +304,7 @@ export const products = [
         price: 18500,
         image: `${direccion}remerapumanegra.jpg`,
         description: "--------------------",
-        category : 'Natural',
+        category : 'Remeramujer',
         stock : 5.7
     },
     {
@@ -313,7 +313,7 @@ export const products = [
         price: 16300,
         image: `${direccion}remerareebokcutoutars.jpg`,
         description: "--------------------",
-        category : 'Natural',
+        category : 'Remeramujer',
         stock : 4.3
     },
     {
@@ -322,7 +322,7 @@ export const products = [
         price: 15450,
         image: `${direccion}remerareebokessential.jpg`,
         description: "--------------------",
-        category : 'Natural',
+        category : 'Remeramujer',
         stock : 2.6
     },
     {
@@ -331,7 +331,7 @@ export const products = [
         price: 40000,
         image: `${direccion}remerastudioreebok.jpg`,
         description: "--------------------",
-        category : 'Natural',
+        category : 'Remeramujer',
         stock : 8.8
     },
     {
@@ -340,7 +340,7 @@ export const products = [
         price: 19799,
         image: `${direccion}remeratopper.jpg`,
         description: "--------------------",
-        category : 'Natural',
+        category : 'Remeramujer',
         stock : 10.6
     },
     {
@@ -349,7 +349,7 @@ export const products = [
         price: 25199,
         image: `${direccion}remeratopperlight.jpg`,
         description: "--------------------",
-        category : 'Natural',
+        category : 'Remeramujer',
         stock : 12.5
     },
     {
@@ -358,7 +358,7 @@ export const products = [
         price: 88900,
         image: `${direccion}pantaadidasgris.jpg`,
         description: "--------------------",
-        category : 'vegano',
+        category : 'Pantalonhombre',
         stock : 7.1
     },
     {
@@ -367,7 +367,7 @@ export const products = [
         price: 88900,
         image: `${direccion}pantadidasazul.jpg`,
         description: "--------------------",
-        category : 'vegano',
+        category : 'Pantalonhombre',
         stock : 14.2
     },
     {
@@ -376,7 +376,7 @@ export const products = [
         price: 88900,
         image: `${direccion}pantadidasceleste.jpg`,
         description: "--------------------",
-        category : 'vegano',
+        category : 'Pantalonhombre',
         stock : 0
      },
      {
@@ -385,7 +385,7 @@ export const products = [
        price: 34000,
        image:`${direccion}pantadidasclubblanco.jpg`,
        description: "--------------------",
-       category : 'vegano' ,
+       category : 'Pantalonhombre' ,
        stock : 16
      },
      {
@@ -394,7 +394,7 @@ export const products = [
          price: 61999,
          image: `${direccion}pantadidasshortfuture.jpg`,
          description: "--------------------",
-         category : 'vegano',
+         category : 'Pantalonhombre',
          stock: 20
      },
      {
@@ -403,7 +403,7 @@ export const products = [
          price: 17999,
          image: `${direccion}pantadidassplit.jpg`,
          description: "--------------------",
-         category : 'vegano',
+         category : 'Pantalonhombre',
          stock: 15
  
      },
@@ -413,7 +413,7 @@ export const products = [
          price: 16999,
          image: `${direccion}pantnikeshortswoosh.jpg`,
          description: "--------------------",
-         category: 'vegano',
+         category: 'Pantalonhombre',
          stock: 10
      },
      {
@@ -422,7 +422,7 @@ export const products = [
          price: 52649,
          image: `${direccion}pantreebokts.jpg`,
          description: "--------------------",
-         category : 'vegano',
+         category : 'Pantalonhombre',
          stock: 15
  
      },
@@ -432,7 +432,7 @@ export const products = [
          price: 30532,
          image: `${direccion}pantshortmontagnejano.jpg`,
          description: "--------------------",
-         category : 'vegano',
+         category : 'Pantalonhombre',
          stock: 15
      },
      { 
@@ -441,17 +441,17 @@ export const products = [
          price: 25237,
          image: `${direccion}pantshortmontagnerace.jpg`,
          description: "--------------------",
-         category : 'vegano',
+         category : 'Pantalonhombre',
          stock: 20
  
      },
      {
          id: 50,
          name:"Pantalon Short Puma",
-         price: 31999,
+         price: 18833,
          image: `${direccion}pantshortpuma.jpg`,
          description: "--------------------",
-         category: 'vegano',
+         category: 'Pantalonhombre',
          stock: 18
      },
      {
@@ -460,7 +460,7 @@ export const products = [
          price: 3000,
          image: `${direccion}pantshortpumabmw.jpg`,
          description: "--------------------",
-         category: 'vegano',
+         category: 'Pantalonhombre',
          stock: 16
      },
      {
@@ -469,7 +469,7 @@ export const products = [
          price: 700,
          image: `${direccion}pantshortpumaessential.jpg`,
          description: "--------------------",
-         category : 'vegano',
+         category : 'Pantalonhombre',
          stock : 10
      },
      {
@@ -478,7 +478,7 @@ export const products = [
          price: 1040,
          image: `${direccion}panttopperazul.jpg`,
          description: "--------------------",
-         category : 'vegano',
+         category : 'Pantalonhombre',
          stock : 15
      },
      {
@@ -487,7 +487,7 @@ export const products = [
          price: 1040,
          image: `${direccion}panttopperjogger.jpg`,
          description: "--------------------",
-         category : 'vegano',
+         category : 'Pantalonhombre',
          stock : 12
      },
      {
@@ -496,7 +496,7 @@ export const products = [
          price: 2400,
          image: `${direccion}panttoppermixazul.jpg`,
          description: "--------------------",
-         category : 'vegano',
+         category : 'Pantalonhombre',
          stock : 20
      },
      {
@@ -505,7 +505,7 @@ export const products = [
          price: 920,
          image: `${direccion}panttoppernegro.jpg`,
          description: "--------------------",
-         category : 'vegano',
+         category : 'Pantalonhombre',
          stock : 18
      },
      {
@@ -514,7 +514,7 @@ export const products = [
          price: 4860,
          image: `${direccion}panttoppershortgris.jpg`,
          description: "--------------------",
-         category : 'vegano',
+         category : 'Pantalonhombre',
          stock : 13
      },
      {
@@ -523,7 +523,7 @@ export const products = [
          price: 1230,
          image: `${direccion}panttoppershortmix.jpg`,
          description: "--------------------",
-         category : 'vegano',
+         category : 'Pantalonhombre',
          stock : 15
      },
      {
@@ -532,7 +532,7 @@ export const products = [
          price: 2000,
          image: `${direccion}panttopperslim.jpg`,
          description: "--------------------",
-         category : 'vegano',
+         category : 'Pantalonhombre',
          stock : 11
      },
      {
@@ -541,7 +541,7 @@ export const products = [
          price: 1250,
          image: `${direccion}pantalonadidasaeroready.jpg`,
          description: "--------------------",
-         category : 'tacc',
+         category : 'Pantalonmujer',
          stock : 8
      },
      {
@@ -550,7 +550,7 @@ export const products = [
          price: 1250,
          image: `${direccion}pantalonadidashyperglam.jpg`,
          description: "--------------------",
-         category : 'tacc',
+         category : 'Pantalonmujer',
          stock : 9
      },
      {
@@ -559,7 +559,7 @@ export const products = [
          price: 850,
          image: `${direccion}pantalonadidasowntherun.jpg`,
          description: "--------------------",
-         category : 'tacc',
+         category : 'Pantalonmujer',
          stock : 16
      },
      {
@@ -568,7 +568,7 @@ export const products = [
          price: 850,
          image: `${direccion}pantalonadidassportsclub.jpg`,
          description: "--------------------",
-         category : 'tacc',
+         category : 'Pantalonmujer',
          stock : 18
      },
      {
@@ -577,7 +577,7 @@ export const products = [
          price: 2200,
          image: `${direccion}pantalonfilabordo.jpg`,
          description: "--------------------",
-         category : 'tacc',
+         category : 'Pantalonmujer',
          stock : 8
      },
      {
@@ -586,7 +586,7 @@ export const products = [
          price: 2600,
          image: `${direccion}pantalonfilaletterazul.jpg`,
          description: "--------------------",
-         category : 'tacc',
+         category : 'Pantalonmujer',
          stock : 9
      },
      {
@@ -595,7 +595,7 @@ export const products = [
          price: 3100,
          image: `${direccion}pantalonfilasport.jpg`,
          description: "--------------------",
-         category : 'tacc',
+         category : 'Pantalonmujer',
          stock : 7
      },
      {
@@ -604,7 +604,7 @@ export const products = [
          price: 1850,
          image: `${direccion}pantalonfilastreethop.jpg`,
          description: "--------------------",
-         category : 'tacc',
+         category : 'Pantalonmujer',
          stock : 10
      },
      {
@@ -613,7 +613,7 @@ export const products = [
          price: 2300,
          image: `${direccion}pantalonmontagnekendra.jpg`,
          description: "--------------------",
-         category : 'tacc',
+         category : 'Pantalonmujer',
          stock : 9
      },
      {
@@ -622,7 +622,7 @@ export const products = [
          price: 2300,
          image: `${direccion}pantalonmontagnesally.jpg`,
          description: "--------------------",
-         category : 'tacc',
+         category : 'Pantalonmujer',
          stock : 11
      },
      {
@@ -631,7 +631,7 @@ export const products = [
          price: 3600,
          image: `${direccion}pantalonnikesculptvictory.jpg`,
          description: "--------------------",
-         category : 'tacc',
+         category : 'Pantalonmujer',
          stock : 10
      },
      {
@@ -640,7 +640,7 @@ export const products = [
          price: 3200,
          image: `${direccion}pantalonnikesportswear.jpg`,
          description: "--------------------",
-         category : 'tacc',
+         category : 'Pantalonmujer',
          stock : 6
      },
      {
@@ -649,7 +649,7 @@ export const products = [
          price: 2500,
          image: `${direccion}pantalonpumafiteversculpt.jpg`,
          description: "--------------------",
-         category : 'tacc',
+         category : 'Pantalonmujer',
          stock : 8
      },
      {
@@ -658,7 +658,7 @@ export const products = [
          price: 2900,
          image: `${direccion}pantalonpumagraphic.jpg`,
          description: "--------------------",
-         category : 'tacc',
+         category : 'Pantalonmujer',
          stock : 7
      },
      {
@@ -667,7 +667,7 @@ export const products = [
          price: 3300,
          image: `${direccion}pantalonpumatraineversculpt.jpg`,
          description: "--------------------",
-         category : 'tacc',
+         category : 'Pantalonmujer',
          stock : 5
      },
      {
@@ -676,7 +676,7 @@ export const products = [
          price: 3300,
          image: `${direccion}pantalonreebokmytprinted.jpg`,
          description: "--------------------",
-         category : 'tacc',
+         category : 'Pantalonmujer',
          stock : 6
      },
      {
@@ -685,7 +685,7 @@ export const products = [
          price: 1200,
          image: `${direccion}pantalonreebokreecyccledrun.jpg`,
          description: "--------------------",
-         category : 'tacc',
+         category : 'Pantalonmujer',
          stock : 6
      },
      {
@@ -694,7 +694,7 @@ export const products = [
          price: 1100,
          image: `${direccion}pantalonshortpuma.jpg`,
          description: "--------------------",
-         category : 'tacc',
+         category : 'Pantalonmujer',
          stock : 4
      },
      {
@@ -703,7 +703,7 @@ export const products = [
          price: 1300,
          image: `${direccion}pantalonumbroorion.jpg`,
          description: "--------------------",
-         category : 'tacc',
+         category : 'Pantalonmujer',
          stock : 7
      },
      {
@@ -712,7 +712,7 @@ export const products = [
          price: 2800,
          image: `${direccion}pantalonumbrosport.jpg`,
          description: "--------------------",
-         category : 'tacc',
+         category : 'Pantalonmujer',
          stock : 8
      },
      {
@@ -721,7 +721,7 @@ export const products = [
          price: 2800,
          image: `${direccion}cinturonbalboafit.jpg`,
          description: "--------------------",
-         category : 'cosmetica',
+         category : 'Accesorios',
          stock : 5
      },
      {
@@ -730,7 +730,7 @@ export const products = [
          price: 300,
          image: `${direccion}cinturonbigcompany.jpg`,
          description: "--------------------",
-         category : 'cosmetica',
+         category : 'Accesorios',
          stock : 10
      },
      {
@@ -739,7 +739,7 @@ export const products = [
          price: 5400,
          image: `${direccion}cinturoncpsports.jpg`,
          description: "--------------------",
-         category : 'cosmetica',
+         category : 'Accesorios',
          stock : 9
      },
      {
@@ -748,7 +748,7 @@ export const products = [
          price: 5750,
          image: `${direccion}cinturonfuerzapresslove.jpg`,
          description: "--------------------",
-         category : 'cosmetica',
+         category : 'Accesorios',
          stock : 12
 
      },{id: 84,
@@ -756,7 +756,7 @@ export const products = [
      price: 1400,
      image: `${direccion}cinturonhighperformancemujer.jpg`,
      description: "--------------------",
-     category: 'cosmetica',
+     category: 'Accesorios',
      stock: 16
     },
        {
@@ -765,7 +765,7 @@ export const products = [
         price: 4140,
         image: `${direccion}cinturonpetitfitmujer.jpg`,
         description: "--------------------",
-        category: 'cosmetica',
+        category: 'Accesorios',
         stock: 9
        },
        {
@@ -774,7 +774,7 @@ export const products = [
         price: 1180,
         image: `${direccion}cinturonpowergrip.jpg`,
         description: "--------------------",
-        category: 'cosmetica',
+        category: 'Accesorios',
         stock: 10
        },
        {
@@ -783,7 +783,7 @@ export const products = [
         price: 940,
         image: `${direccion}muñequerabeastgear.jpg`,
         description: "--------------------",
-        category: 'cosmetica',
+        category: 'Accesorios',
         stock: 10
        },
        {
@@ -792,7 +792,7 @@ export const products = [
         price: 920,
         image: `${direccion}muñequerabemaxx.jpg`,
         description: "--------------------",
-        category: 'cosmetica',
+        category: 'Accesorios',
         stock: 5
        },
        {
@@ -801,7 +801,7 @@ export const products = [
         price: 900,
         image: `${direccion}muñequerafist.jpg`,
         description: "--------------------",
-        category: 'cosmetica',
+        category: 'Accesorios',
         stock: 5
        },
        {
@@ -810,7 +810,7 @@ export const products = [
         price: 1990,
         image: `${direccion}muñequerastrong.jpg`,
         description: "--------------------",
-        category: 'cosmetica',
+        category: 'Accesorios',
         stock: 20
        },
 
@@ -820,7 +820,7 @@ export const products = [
         price: 2180,
         image: `${direccion}rodilleradefy.jpg`,
         description: "--------------------",
-        category: 'cosmetica',
+        category: 'Accesorios',
         stock: 40
        },
        {
@@ -829,7 +829,7 @@ export const products = [
         price: 2420,
         image: `${direccion}rodilleraemo.jpg`,
         description: "--------------------",
-        category: 'cosmetica',
+        category: 'Accesorios',
         stock: 25
        },
        {
@@ -838,7 +838,7 @@ export const products = [
         price: 3500,
         image: `${direccion}strapsbalboafit.jpg`,
         description: "--------------------",
-        category: 'cosmetica',
+        category: 'Accesorios',
         stock: 15
        },
        {
@@ -847,7 +847,7 @@ export const products = [
         price: 1290,
         image: `${direccion}strapsnaturafitness.jpg`,
         description: "--------------------",
-        category: 'cosmetica',
+        category: 'Accesorios',
         stock: 10
        },
        {
@@ -856,7 +856,7 @@ export const products = [
         price: 1290,
         image: `${direccion}strapssvg.jpg`,
         description: "--------------------",
-        category: 'cosmetica',
+        category: 'Accesorios',
         stock: 10
        },
        {
@@ -865,7 +865,7 @@ export const products = [
         price: 1290,
         image: `${direccion}strapsxoomproject.jpg`,
         description: "--------------------",
-        category: 'cosmetica',
+        category: 'Accesorios',
         stock: 10
        },
        {
@@ -874,7 +874,7 @@ export const products = [
         price: 1290,
         image: `${direccion}strapsyoungdo.jpg`,
         description: "--------------------",
-        category: 'cosmetica',
+        category: 'Accesorios',
         stock: 10
        },
        {
@@ -883,7 +883,7 @@ export const products = [
         price: 1290,
         image: `${direccion}vendasrodillagnfitness.jpg`,
         description: "--------------------",
-        category: 'cosmetica',
+        category: 'Accesorios',
         stock: 10
        },
        {
@@ -892,7 +892,7 @@ export const products = [
         price: 1290,
         image: `${direccion}vendasssr.jpg`,
         description: "--------------------",
-        category: 'cosmetica',
+        category: 'Accesorios',
         stock: 10
        },
 
