@@ -256,7 +256,7 @@ export const products = [
     {
         id: 29,
         name: "Remera Utility Puma",
-        price: 920,
+        price: 14889,
         image: `${direccion}remeranutilitypuma.jpg`,
         description: "--------------------",
         category : 'Natural',
@@ -265,7 +265,7 @@ export const products = [
     {   
         id: 30,
         name: "Remera Puma Rosa",
-        price: 2250,
+        price: 15400,
         image: `${direccion}remerapuma.jpg`,
         description: "--------------------",
         category : 'Natural',
@@ -274,7 +274,7 @@ export const products = [
     {
         id: 31,
         name: "Remera Wilson Tenis",
-        price: 1350,
+        price: 32475,
         image: `${direccion}remerawilsontenis.jpg`,
         description: "--------------------",
         category : 'Natural',
@@ -283,7 +283,7 @@ export const products = [
     {
         id: 32,
         name: "Remera Puma Active",
-        price: 3000,
+        price: 18999,
         image: `${direccion}remerapumaactive.jpg`,
         description: "--------------------",
         category : 'Natural',
@@ -292,7 +292,7 @@ export const products = [
     {
         id: 33,
         name: "Remera Puma Blanca",
-        price: 1500,
+        price: 19999,
         image: `${direccion}remerapumablanca.jpg`,
         description: "--------------------",
         category : 'Natural',
@@ -301,7 +301,7 @@ export const products = [
     {
         id: 34,
         name: "Remera Puma Negra",
-        price: 1700,
+        price: 18500,
         image: `${direccion}remerapumanegra.jpg`,
         description: "--------------------",
         category : 'Natural',
@@ -310,7 +310,7 @@ export const products = [
     {
         id: 35,
         name: "Remera Reebok Cut Out Ars",
-        price: 3875,
+        price: 16300,
         image: `${direccion}remerareebokcutoutars.jpg`,
         description: "--------------------",
         category : 'Natural',
@@ -319,7 +319,7 @@ export const products = [
     {
         id: 36,
         name: "Remera Reebok Essential",
-        price: 2190,
+        price: 15450,
         image: `${direccion}remerareebokessential.jpg`,
         description: "--------------------",
         category : 'Natural',
@@ -328,7 +328,7 @@ export const products = [
     {
         id: 37,
         name: "Remera Studio Reebok",
-        price: 3525,
+        price: 40000,
         image: `${direccion}remerastudioreebok.jpg`,
         description: "--------------------",
         category : 'Natural',
@@ -337,7 +337,7 @@ export const products = [
     {
         id: 38,
         name: "Remera Topper",
-        price: 1985,
+        price: 19799,
         image: `${direccion}remeratopper.jpg`,
         description: "--------------------",
         category : 'Natural',
@@ -346,7 +346,7 @@ export const products = [
     {
         id: 39,
         name: "Remera Topper Light",
-        price: 1463,
+        price: 25199,
         image: `${direccion}remeratopperlight.jpg`,
         description: "--------------------",
         category : 'Natural',
@@ -355,7 +355,7 @@ export const products = [
     {
         id: 40,
         name: "Pantalon Adidas Gris",
-        price: 2100,
+        price: 88900,
         image: `${direccion}pantaadidasgris.jpg`,
         description: "--------------------",
         category : 'vegano',
@@ -364,7 +364,7 @@ export const products = [
     {
         id: 41,
         name: "Pantalon Adidas Azul",
-        price: 1900,
+        price: 88900,
         image: `${direccion}pantadidasazul.jpg`,
         description: "--------------------",
         category : 'vegano',
@@ -373,7 +373,7 @@ export const products = [
     {
         id: 42,
         name: "Pantalon Adidas Celeste" ,
-        price: 1430,
+        price: 88900,
         image: `${direccion}pantadidasceleste.jpg`,
         description: "--------------------",
         category : 'vegano',
@@ -382,7 +382,7 @@ export const products = [
      {
        id: 43,
        name: "Pantalon Adidas Club Blanco" ,
-       price: 1500,
+       price: 34000,
        image:`${direccion}pantadidasclubblanco.jpg`,
        description: "--------------------",
        category : 'vegano' ,
@@ -390,8 +390,8 @@ export const products = [
      },
      {
          id: 44,
-         name: "P   antalon Adidas Short Future" ,
-         price: 600,
+         name: "Pantalon Adidas Short Future" ,
+         price: 61999,
          image: `${direccion}pantadidasshortfuture.jpg`,
          description: "--------------------",
          category : 'vegano',
@@ -400,7 +400,7 @@ export const products = [
      {
          id: 45,
          name: "Pantalon Adidas Split",
-         price: 950,
+         price: 17999,
          image: `${direccion}pantadidassplit.jpg`,
          description: "--------------------",
          category : 'vegano',
@@ -410,7 +410,7 @@ export const products = [
      {
          id: 46,
          name: "Pantalon Nike Short Swoosh",
-         price: 1180,
+         price: 16999,
          image: `${direccion}pantnikeshortswoosh.jpg`,
          description: "--------------------",
          category: 'vegano',
@@ -419,7 +419,7 @@ export const products = [
      {
          id: 47,
          name:"Pantalon Reebok TS",
-         price: 1570,
+         price: 52649,
          image: `${direccion}pantreebokts.jpg`,
          description: "--------------------",
          category : 'vegano',
@@ -429,7 +429,7 @@ export const products = [
      {
          id: 48,
          name:"Pantalon Short Montagne Jano",
-         price: 1570,
+         price: 30532,
          image: `${direccion}pantshortmontagnejano.jpg`,
          description: "--------------------",
          category : 'vegano',
@@ -438,7 +438,7 @@ export const products = [
      { 
          id: 49,
          name:"Pantalon Short Montagne Race",
-         price: 1220,
+         price: 25237,
          image: `${direccion}pantshortmontagnerace.jpg`,
          description: "--------------------",
          category : 'vegano',
@@ -448,7 +448,7 @@ export const products = [
      {
          id: 50,
          name:"Pantalon Short Puma",
-         price: 1220,
+         price: 31999,
          image: `${direccion}pantshortpuma.jpg`,
          description: "--------------------",
          category: 'vegano',
