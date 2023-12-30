@@ -85,7 +85,7 @@ body {
 
 .category-Hombres{
 	background-image: linear-gradient(#73282880, #00000080),
-		url('./img/Keto-category.jpg');
+		url('./img/Hombre-category.jpg');
 	background-size: cover;
 	background-position: center;
 	background-repeat: no-repeat;
@@ -93,7 +93,7 @@ body {
 
 .category-Accesorios {
 	background-image: linear-gradient(#edac2ab7, #00000080),
-		url('./img/Natural-category.jpg');
+		url('./img/Cinturones-category.jpg');
 	background-size: cover;
 	background-position: center;
 	background-repeat: no-repeat;
