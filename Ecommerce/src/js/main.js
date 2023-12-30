@@ -39,11 +39,11 @@ btnInicio.addEventListener("click", () => {
 
 
 
-const btnTacc = document.querySelector(".btn-tacc");
-const btnVeggie = document.querySelector(".btn-veggie");
-const btnKeto = document.querySelector(".btn-keto");
-const btnNatural = document.querySelector(".btn-Natural");
-const btnCosmetica = document.querySelector(".btn-cosmetica");
+const btnPantalonmujer= document.querySelector(".btn-Pantalonmujer");
+const btnPantalonhombre = document.querySelector(".btn-Pantalonhombre");
+const btnRemerahombre = document.querySelector(".btn-Remerahombre");
+const btnRemeramujer = document.querySelector(".btn-Remeramujer");
+const btnAccesorios = document.querySelector(".btn-Accesorios");
 
 // Destacados
 const btnVeganoDestacado = document.querySelector(".btn-vegano-destacado");
@@ -51,24 +51,24 @@ const btnKetoDestacado = document.querySelector(".btn-keto-destacado");
 const btnNaturalDestacado = document.querySelector(".btn-natural-destacado");
 
 
-btnTacc.addEventListener("click", (e) => {
-    loadSection('tacc');
+btnPantalonmujer.addEventListener("click", (e) => {
+    loadSection('Pantalonmujer');
 });
 
-btnKeto.addEventListener("click", (e) => {
-    loadSection('Keto');
+btnRemerahombre.addEventListener("click", (e) => {
+    loadSection('Remerahombre');
 });
 
-btnVeggie.addEventListener("click", (e) => {
-    loadSection('vegano');
+btnPantalonhombre.addEventListener("click", (e) => {
+    loadSection('Pantalonhombre');
 });
 
-btnNatural.addEventListener("click", (e) => {
-    loadSection('Natural');
+btnRemeramujer.addEventListener("click", (e) => {
+    loadSection('Remeramujer');
 });
 
-btnCosmetica.addEventListener("click", (e) => {
-    loadSection('cosmetica');
+btnAccesorios.addEventListener("click", (e) => {
+    loadSection('Accesorios');
 })
 
 // Destacados
