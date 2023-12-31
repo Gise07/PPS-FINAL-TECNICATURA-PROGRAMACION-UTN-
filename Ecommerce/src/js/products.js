@@ -826,7 +826,7 @@ export const products = [
        {
         id: 92,
         name:"Rodillera EMO",
-        price: 24000,
+        price: 22000,
         image: `${direccion}rodilleraemo.jpg`,
         description: "--------------------",
         category: 'Accesorios',
@@ -835,7 +835,7 @@ export const products = [
        {
         id: 93,
         name:"Straps Balboa Fit",
-        price: 17900,
+        price: 15600,
         image: `${direccion}strapsbalboafit.jpg`,
         description: "--------------------",
         category: 'Accesorios',
@@ -844,7 +844,7 @@ export const products = [
        {
         id: 94,
         name:"Straps Natura Fitness",
-        price: 15600,
+        price: 17600,
         image: `${direccion}strapsnaturafitness.jpg`,
         description: "--------------------",
         category: 'Accesorios',
