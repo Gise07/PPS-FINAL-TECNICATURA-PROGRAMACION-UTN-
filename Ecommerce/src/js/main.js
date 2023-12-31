@@ -46,9 +46,9 @@ const btnRemeramujer = document.querySelector(".btn-Remeramujer");
 const btnAccesorios = document.querySelector(".btn-Accesorios");
 
 // Destacados
-const btnVeganoDestacado = document.querySelector(".btn-vegano-destacado");
-const btnKetoDestacado = document.querySelector(".btn-keto-destacado");
-const btnNaturalDestacado = document.querySelector(".btn-natural-destacado");
+const btnMujeresDestacado = document.querySelector(".btn-mujeres-destacado");
+const btnHombresDestacado = document.querySelector(".btn-hombres-destacado");
+const btnCinturonesDestacado = document.querySelector(".btn-cinturones-destacado");
 
 
 btnPantalonmujer.addEventListener("click", (e) => {
@@ -73,16 +73,16 @@ btnAccesorios.addEventListener("click", (e) => {
 
 // Destacados
 
-btnVeganoDestacado.addEventListener("click", (e) => {
-    loadSection('VeganoDestacado'); // Cambia 'VeganoDestacado' por el nombre real de tu categoría destacada
+btnMujeresDestacado.addEventListener("click", (e) => {
+    loadSection('MujerDestacado'); 
 });
 
-btnKetoDestacado.addEventListener("click", (e) => {
-    loadSection('KetoDestacado'); // Cambia 'VeganoDestacado' por el nombre real de tu categoría destacada
+btnHombresDestacado.addEventListener("click", (e) => {
+    loadSection('HombreDestacado'); 
 });
 
-btnNaturalDestacado.addEventListener("click", (e) => {
-    loadSection('NaturalDestacado'); // Cambia 'VeganoDestacado' por el nombre real de tu categoría destacada
+btnCinturonesDestacado.addEventListener("click", (e) => {
+    loadSection('Cinturones'); 
 });
 
 
