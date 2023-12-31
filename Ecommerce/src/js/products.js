@@ -750,14 +750,14 @@ export const products = [
          description: "--------------------",
          category : 'Accesorios',
          stock : 12
-
-     },{id: 84,
-     name:"Cinturon High Performance Mujer",
-     price: 24500,
-     image: `${direccion}cinturonhighperformancemujer.jpg`,
-     description: "--------------------",
-     category: 'Accesorios',
-     stock: 16
+    }
+    ,{id: 84,
+        name:"Cinturon High Performance Mujer",
+        price: 24500,
+        image: `${direccion}cinturonhighperformancemujer.jpg`,
+        description: "--------------------",
+        category: 'Accesorios',
+        stock: 16
     },
        {
         id: 85,
@@ -897,149 +897,113 @@ export const products = [
        },
 
        //DESTACADOS
-       {
-        id: 95,
-        name:"Smootie Vegano",
-        price: 950,
-        image: `${direccion}VeganoSmoothie.jpg`,
+       
+       {   
+        id: 30,
+        name: "Remera Puma Rosa",
+        price: 15400,
+        image: `${direccion}remerapuma.jpg`,
         description: "--------------------",
-        category: 'VeganoDestacado',
-        stock: 10
-       },
-       {
-        id: 96,
-        name:"Granola",
-        price: 2910,
-        image: `${direccion}granola.jpg`,
-        description: "--------------------",
-        category: 'NaturalDestacado',
-        stock: 10
-       },
-       {
-        id: 97,
-        name:"Kiwi Deshidratado",
-        price: 2750,
-        image: `${direccion}KiwiDeshidratado.jpg`,
-        description: "--------------------",
-        category: 'NaturalDestacado',
-        stock: 10
-       },
-       {
-        id: 98,
-        name:"Budin Keto",
-        price: 750,
-        image: `${direccion}BudinKeto.jpg`,
-        description: "--------------------",
-        category: 'KetoDestacado',
-        stock: 10
-       },
-       {
-        id: 99,
-        name: "Tomates Secos",
-        price: 1900,
-        image: `${direccion}TomatesSecos.jpg`,
-        description: "--------------------",
-        category : 'NaturalDestacado',
-        stock : 14.2
+        category : 'MujerDestacado',
+        stock : 9.7
     },
     {
-        id: 100,
-        name: "Tofu Soyland" ,
-        price: 1430,
-        image: `${direccion}VeganoTofuSoyland.jpg`,
+        id: 31,
+        name: "Remera Wilson Tenis",
+        price: 32475,
+        image: `${direccion}remerawilsontenis.jpg`,
         description: "--------------------",
-        category : 'VeganoDestacado',
-        stock : 0
-     },
-       {
-        id: 101,
-        name:"Stevia Best",
-        price: 1990,
-        image: `${direccion}Stevia.jpg`,
-        description: "--------------------",
-        category: 'VeganoDestacado',
-        stock: 20
-       },
-       {
-        id: 102,
-        name: "Castañas de Caju",
-        price: 3750,
-        image: `${direccion}CastañasDeCaju.jpg`,
-        description: "--------------------",
-        category : 'NaturalDestacado',
-        stock : 2.3
+        category : 'MujerDestacado',
+        stock : 4.7
     },
     {
-        id: 103,
-        name: "Mix Frutos Secos",
-        price: 1450,
-        image: `${direccion}MixFrutosSecos.jpg`,
+        id: 32,
+        name: "Remera Puma Active",
+        price: 18999,
+        image: `${direccion}remerapumaactive.jpg`,
         description: "--------------------",
-        category : 'NaturalDestacado',
-        stock : 24
+        category : 'MujerDestacado',
+        stock : 3.1
     },
     {
-        id: 104,
-        name: "Nuez Mariposa",
-        price: 2880,
-        image: `${direccion}NuezMariposa.jpg`,
+        id: 33,
+        name: "Remera Puma Blanca",
+        price: 19999,
+        image: `${direccion}remerapumablanca.jpg`,
         description: "--------------------",
-        category : 'NaturalDestacado',
-        stock : 7.6
+        category : 'MujerDestacado',
+        stock : 1.5
     },
     {
-        id: 105,
-        name: "Galletas Keto",
-        price: 600,
-        image: `${direccion}GalletasKeto.jpeg`,
+        id: 1,
+        name: "Remera Chameleon Azul",
+        price: 20520,
+        image: `${direccion}chameleonazul.jpg`,
         description: "--------------------",
-        category : 'KetoDestacado',
+        category : 'HombreDestacado',
         stock : 10
     },
     {
-        id: 106,
-        name: "Dulce Keto",
-        price: 600,
-        image: `${direccion}DulceKeto.jpg`,
+        id: 2,
+        name: "Remera Chameleon Blanco",
+        price: 20520,
+        image: `${direccion}chameleonblanco.jpg`,
         description: "--------------------",
-        category : 'KetoDestacado',
+        category : 'HombreDestacado',
+        stock : 10
+    },  
+    {
+        id: 3,
+        name: "Remera Chameleon Fluor",
+        price: 20520,
+        image: `${direccion}chameleonfluor.jpg`,
+        description: "--------------------",
+        category : 'HombreDestacado',
         stock : 10
     },
     {
-        id: 107,
-        name: "Pastas Alubia y Quinoa" ,
-        price: 1500,
-        image:`${direccion}VeganoPastasAlubiaQuinoa.jpg`,
+        id: 4,
+        name: "Remera Chameleon Rojo",
+        price: 20520,
+        image: `${direccion}chameleonrojo.jpg`,
         description: "--------------------",
-        category : 'VeganoDestacado' ,
-        stock : 16
-      },
-      {
-          id: 108,
-          name: "Galletitas Natural Veganas" ,
-          price: 600,
-          image: `${direccion}VeganoGalletitasNatural.jpg`,
-          description: "--------------------",
-          category : 'VeganoDestacado',
-          stock: 20
-      },
-      {
-        id: 109,
-        name: "Barra Energetica Keto",
-        price: 600,
-        image: `${direccion}BarraEnergeticaKeto.jpg`,
-        description: "--------------------",
-        category : 'KetoDestacado',
-        stock : 10
-    },
-    {
-        id: 110,
-        name: "Brounis Keto",
-        price: 600,
-        image: `${direccion}BrounisKeto.jpg`,
-        description: "--------------------",
-        category : 'KetoDestacado',
+        category : 'HombreDestacado',
         stock : 10
     },
 
+    {
+        id: 82,
+        name: "Cinturon CP Sports",
+        price: 37800,
+        image: `${direccion}cinturoncpsports.jpg`,
+        description: "--------------------",
+        category : 'Cinturones',
+        stock : 9
+    },
+    {
+        id: 83,
+        name: "Cinturon Fuerza Press Love",
+        price: 23900,
+        image: `${direccion}cinturonfuerzapresslove.jpg`,
+        description: "--------------------",
+        category : 'Cinturones',
+        stock : 12
+   }
+   ,{id: 84,
+       name:"Cinturon High Performance Mujer",
+       price: 24500,
+       image: `${direccion}cinturonhighperformancemujer.jpg`,
+       description: "--------------------",
+       category: 'Cinturones',
+       stock: 16
+   },
+      {
+       id: 85,
+       name:"Cinturon Petit Fit Mujer",
+       price: 28600,
+       image: `${direccion}cinturonpetitfitmujer.jpg`,
+       description: "--------------------",
+       category: 'Cinturones',
+       stock: 9
+      },
 ]
