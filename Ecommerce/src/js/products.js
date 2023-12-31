@@ -457,7 +457,7 @@ export const products = [
      {
          id: 51,
          name:"Pantalon Short Puma BMW",
-         price: 3000,
+         price: 13000,
          image: `${direccion}pantshortpumabmw.jpg`,
          description: "--------------------",
          category: 'Pantalonhombre',
@@ -466,7 +466,7 @@ export const products = [
      {
          id: 52,
          name: "Pantalon Short Puma Essential",
-         price: 700,
+         price: 12700,
          image: `${direccion}pantshortpumaessential.jpg`,
          description: "--------------------",
          category : 'Pantalonhombre',
@@ -475,7 +475,7 @@ export const products = [
      {
          id: 53,
          name: "Pantalon Topper Azul",
-         price: 1040,
+         price: 13040,
          image: `${direccion}panttopperazul.jpg`,
          description: "--------------------",
          category : 'Pantalonhombre',
@@ -484,7 +484,7 @@ export const products = [
      {
          id: 54,
          name: "Pantalon Topper Jogger",
-         price: 1040,
+         price: 14040,
          image: `${direccion}panttopperjogger.jpg`,
          description: "--------------------",
          category : 'Pantalonhombre',
@@ -493,7 +493,7 @@ export const products = [
      {
          id: 55,
          name: "Pantalon Topper Mix Azul",
-         price: 2400,
+         price: 16400,
          image: `${direccion}panttoppermixazul.jpg`,
          description: "--------------------",
          category : 'Pantalonhombre',
@@ -502,7 +502,7 @@ export const products = [
      {
          id: 56,
          name: "Pantalon Topper Negro",
-         price: 920,
+         price: 12200,
          image: `${direccion}panttoppernegro.jpg`,
          description: "--------------------",
          category : 'Pantalonhombre',
@@ -511,7 +511,7 @@ export const products = [
      {
          id: 57,
          name: "Pantalon Topper Short Gris",
-         price: 4860,
+         price: 14900,
          image: `${direccion}panttoppershortgris.jpg`,
          description: "--------------------",
          category : 'Pantalonhombre',
@@ -520,7 +520,7 @@ export const products = [
      {
          id: 58,
          name: "Pantalon Topper Short Mix",
-         price: 1230,
+         price: 17000,
          image: `${direccion}panttoppershortmix.jpg`,
          description: "--------------------",
          category : 'Pantalonhombre',
@@ -529,7 +529,7 @@ export const products = [
      {
          id: 59,
          name: "Pantalon Topper Slim",
-         price: 2000,
+         price: 20000,
          image: `${direccion}panttopperslim.jpg`,
          description: "--------------------",
          category : 'Pantalonhombre',
@@ -538,7 +538,7 @@ export const products = [
      {
          id: 60,
          name: "Calza Adidas Aero Ready",
-         price: 1250,
+         price: 22200,
          image: `${direccion}pantalonadidasaeroready.jpg`,
          description: "--------------------",
          category : 'Pantalonmujer',
@@ -547,7 +547,7 @@ export const products = [
      {
          id: 61,
          name: "Calza Adidas Hyper Glam",
-         price: 1250,
+         price: 25000,
          image: `${direccion}pantalonadidashyperglam.jpg`,
          description: "--------------------",
          category : 'Pantalonmujer',
@@ -556,7 +556,7 @@ export const products = [
      {
          id: 62,
          name: "Calza Adidas Own The Run",
-         price: 850,
+         price: 19900,
          image: `${direccion}pantalonadidasowntherun.jpg`,
          description: "--------------------",
          category : 'Pantalonmujer',
@@ -565,7 +565,7 @@ export const products = [
      {
          id: 63,
          name: "Calza Adidas Sports Club",
-         price: 850,
+         price: 16800,
          image: `${direccion}pantalonadidassportsclub.jpg`,
          description: "--------------------",
          category : 'Pantalonmujer',
@@ -574,7 +574,7 @@ export const products = [
      {
          id: 64,
          name: "Calza Fila Bordo",
-         price: 2200,
+         price: 21200,
          image: `${direccion}pantalonfilabordo.jpg`,
          description: "--------------------",
          category : 'Pantalonmujer',
@@ -583,7 +583,7 @@ export const products = [
      {
          id: 65,
          name: "Calza Fila Letter Azul",
-         price: 2600,
+         price: 17000,
          image: `${direccion}pantalonfilaletterazul.jpg`,
          description: "--------------------",
          category : 'Pantalonmujer',
@@ -592,7 +592,7 @@ export const products = [
      {
          id: 66,
          name: "Calza Fila Sport",
-         price: 3100,
+         price: 19300,
          image: `${direccion}pantalonfilasport.jpg`,
          description: "--------------------",
          category : 'Pantalonmujer',
@@ -601,7 +601,7 @@ export const products = [
      {
          id: 67,
          name: "Calza Fila Street Hop",
-         price: 1850,
+         price: 18500,
          image: `${direccion}pantalonfilastreethop.jpg`,
          description: "--------------------",
          category : 'Pantalonmujer',
@@ -610,7 +610,7 @@ export const products = [
      {
          id: 68,
          name: "Calza Montagne Kendra",
-         price: 2300,
+         price: 23000,
          image: `${direccion}pantalonmontagnekendra.jpg`,
          description: "--------------------",
          category : 'Pantalonmujer',
@@ -619,7 +619,7 @@ export const products = [
      {
          id: 69,
          name: "Calza Montagne Sally",
-         price: 2300,
+         price: 23500,
          image: `${direccion}pantalonmontagnesally.jpg`,
          description: "--------------------",
          category : 'Pantalonmujer',
@@ -628,7 +628,7 @@ export const products = [
      {
          id: 70,
          name: "Calza Nike Sculpt Victory",
-         price: 3600,
+         price: 36000,
          image: `${direccion}pantalonnikesculptvictory.jpg`,
          description: "--------------------",
          category : 'Pantalonmujer',
@@ -637,7 +637,7 @@ export const products = [
      {
          id: 71,
          name: "Calza Nike Sports Wear",
-         price: 3200,
+         price: 29000,
          image: `${direccion}pantalonnikesportswear.jpg`,
          description: "--------------------",
          category : 'Pantalonmujer',
@@ -646,7 +646,7 @@ export const products = [
      {
          id: 72,
          name: "Calza Puma Fit Ever Sculpt",
-         price: 2500,
+         price: 21500,
          image: `${direccion}pantalonpumafiteversculpt.jpg`,
          description: "--------------------",
          category : 'Pantalonmujer',
@@ -655,7 +655,7 @@ export const products = [
      {
          id: 73,
          name: "Calza Puma Graphic",
-         price: 2900,
+         price: 23900,
          image: `${direccion}pantalonpumagraphic.jpg`,
          description: "--------------------",
          category : 'Pantalonmujer',
@@ -664,7 +664,7 @@ export const products = [
      {
          id: 74,
          name: "Calza Puma Train Ever Sculpt",
-         price: 3300,
+         price: 19900,
          image: `${direccion}pantalonpumatraineversculpt.jpg`,
          description: "--------------------",
          category : 'Pantalonmujer',
@@ -673,7 +673,7 @@ export const products = [
      {
          id: 75,
          name: "Calza Reebok MYT Printed",
-         price: 3300,
+         price: 18000,
          image: `${direccion}pantalonreebokmytprinted.jpg`,
          description: "--------------------",
          category : 'Pantalonmujer',
@@ -682,7 +682,7 @@ export const products = [
      {
          id: 76,
          name: "Pantalon Reebok Reecycled Run",
-         price: 1200,
+         price: 17900,
          image: `${direccion}pantalonreebokreecyccledrun.jpg`,
          description: "--------------------",
          category : 'Pantalonmujer',
@@ -691,7 +691,7 @@ export const products = [
      {
          id: 77,
          name: "Pantalon Short Puma",
-         price: 1100,
+         price: 21000,
          image: `${direccion}pantalonshortpuma.jpg`,
          description: "--------------------",
          category : 'Pantalonmujer',
@@ -700,7 +700,7 @@ export const products = [
      {
          id: 78,
          name: "Pantalon Umbro Orion",
-         price: 1300,
+         price: 26000,
          image: `${direccion}pantalonumbroorion.jpg`,
          description: "--------------------",
          category : 'Pantalonmujer',
@@ -709,7 +709,7 @@ export const products = [
      {
          id: 79,
          name: "Pantalon Umbro Sport",
-         price: 2800,
+         price: 23900,
          image: `${direccion}pantalonumbrosport.jpg`,
          description: "--------------------",
          category : 'Pantalonmujer',
@@ -718,7 +718,7 @@ export const products = [
      {
          id: 80,
          name: "Cinturon Balboa Fit",
-         price: 2800,
+         price: 36500,
          image: `${direccion}cinturonbalboafit.jpg`,
          description: "--------------------",
          category : 'Accesorios',
@@ -727,7 +727,7 @@ export const products = [
      {
          id: 81,
          name: "Cinturon Big Company",
-         price: 300,
+         price: 33500,
          image: `${direccion}cinturonbigcompany.jpg`,
          description: "--------------------",
          category : 'Accesorios',
@@ -736,7 +736,7 @@ export const products = [
      {
          id: 82,
          name: "Cinturon CP Sports",
-         price: 5400,
+         price: 37800,
          image: `${direccion}cinturoncpsports.jpg`,
          description: "--------------------",
          category : 'Accesorios',
@@ -745,7 +745,7 @@ export const products = [
      {
          id: 83,
          name: "Cinturon Fuerza Press Love",
-         price: 5750,
+         price: 23900,
          image: `${direccion}cinturonfuerzapresslove.jpg`,
          description: "--------------------",
          category : 'Accesorios',
@@ -753,7 +753,7 @@ export const products = [
 
      },{id: 84,
      name:"Cinturon High Performance Mujer",
-     price: 1400,
+     price: 24500,
      image: `${direccion}cinturonhighperformancemujer.jpg`,
      description: "--------------------",
      category: 'Accesorios',
@@ -762,7 +762,7 @@ export const products = [
        {
         id: 85,
         name:"Cinturon Petit Fit Mujer",
-        price: 4140,
+        price: 28600,
         image: `${direccion}cinturonpetitfitmujer.jpg`,
         description: "--------------------",
         category: 'Accesorios',
@@ -771,7 +771,7 @@ export const products = [
        {
         id: 86,
         name:"Cinturon Power Grip",
-        price: 1180,
+        price: 30000,
         image: `${direccion}cinturonpowergrip.jpg`,
         description: "--------------------",
         category: 'Accesorios',
@@ -780,7 +780,7 @@ export const products = [
        {
         id: 87,
         name:"Muñequera Beast Gear",
-        price: 940,
+        price: 15000,
         image: `${direccion}muñequerabeastgear.jpg`,
         description: "--------------------",
         category: 'Accesorios',
@@ -789,7 +789,7 @@ export const products = [
        {
         id: 88,
         name:"Muñequera Bemaxx",
-        price: 920,
+        price: 16700,
         image: `${direccion}muñequerabemaxx.jpg`,
         description: "--------------------",
         category: 'Accesorios',
@@ -798,7 +798,7 @@ export const products = [
        {
         id: 89,
         name:"Muñequera Fist",
-        price: 900,
+        price: 21000,
         image: `${direccion}muñequerafist.jpg`,
         description: "--------------------",
         category: 'Accesorios',
@@ -807,7 +807,7 @@ export const products = [
        {
         id: 90,
         name:"Muñequera Strong",
-        price: 1990,
+        price: 16900,
         image: `${direccion}muñequerastrong.jpg`,
         description: "--------------------",
         category: 'Accesorios',
@@ -817,7 +817,7 @@ export const products = [
        {
         id: 91,
         name:"Rodillera Defy",
-        price: 2180,
+        price: 23000,
         image: `${direccion}rodilleradefy.jpg`,
         description: "--------------------",
         category: 'Accesorios',
@@ -826,7 +826,7 @@ export const products = [
        {
         id: 92,
         name:"Rodillera EMO",
-        price: 2420,
+        price: 24000,
         image: `${direccion}rodilleraemo.jpg`,
         description: "--------------------",
         category: 'Accesorios',
@@ -835,7 +835,7 @@ export const products = [
        {
         id: 93,
         name:"Straps Balboa Fit",
-        price: 3500,
+        price: 17900,
         image: `${direccion}strapsbalboafit.jpg`,
         description: "--------------------",
         category: 'Accesorios',
@@ -844,7 +844,7 @@ export const products = [
        {
         id: 94,
         name:"Straps Natura Fitness",
-        price: 1290,
+        price: 15600,
         image: `${direccion}strapsnaturafitness.jpg`,
         description: "--------------------",
         category: 'Accesorios',
@@ -853,7 +853,7 @@ export const products = [
        {
         id: 95,
         name:"Straps SVG",
-        price: 1290,
+        price: 19000,
         image: `${direccion}strapssvg.jpg`,
         description: "--------------------",
         category: 'Accesorios',
@@ -862,7 +862,7 @@ export const products = [
        {
         id: 96,
         name:"Straps Xoomproject",
-        price: 1290,
+        price: 13000,
         image: `${direccion}strapsxoomproject.jpg`,
         description: "--------------------",
         category: 'Accesorios',
@@ -871,7 +871,7 @@ export const products = [
        {
         id: 97,
         name:"Straps Youngdo",
-        price: 1290,
+        price: 17000,
         image: `${direccion}strapsyoungdo.jpg`,
         description: "--------------------",
         category: 'Accesorios',
@@ -880,7 +880,7 @@ export const products = [
        {
         id: 98,
         name:"Vendas Rodilla Gn Fitness",
-        price: 1290,
+        price: 25000,
         image: `${direccion}vendasrodillagnfitness.jpg`,
         description: "--------------------",
         category: 'Accesorios',
@@ -889,7 +889,7 @@ export const products = [
        {
         id: 99,
         name:"Vendas SSR",
-        price: 1290,
+        price: 16500,
         image: `${direccion}vendasssr.jpg`,
         description: "--------------------",
         category: 'Accesorios',
